@@ -5,7 +5,7 @@ status: Active
 constraint_model: Zero-Friction Specification
 ---
 
-Here is the clean, stripped-down master index README linking your core ecosystem modules (M.A.D. Grips+, M.A.D. W.E.A.R., M.A.D. Suite S.E.A.T., Spark-X, and Cenote Core).
+
 ---
 id: mad-works-master-index
 domain: Systems Architecture / Ecosystem Index
